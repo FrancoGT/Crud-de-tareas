@@ -1,4 +1,5 @@
 # Crud-de-tareas
+Este proyecto fue desarrollado en NodeJS v21.6.2
 
 # BACKEND: apiTasks
 1. Preparación del Proyecto:
